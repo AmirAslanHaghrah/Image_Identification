@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>94e645a4-5ff5-4257-ad5a-93be153d8b45</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>temp.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +28,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Simple_Gun_NotGun_Classification_NN_Tensorflow.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="temp.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Train_DataSet_Augmentation_Miroring.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
