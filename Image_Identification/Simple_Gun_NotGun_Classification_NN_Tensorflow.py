@@ -1,4 +1,4 @@
-# <Gun_NotGun_Image_Identification>
+# <Image_Identification>
 # <Simple_Gun_NotGun_Classification_NN_Tensorflow>
 # Copyright © <2018> <AmirAslan Haghrah>
 
